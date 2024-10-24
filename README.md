@@ -17,6 +17,7 @@ This project investigates chaos theory, focusing on the sensitivity of non-linea
   - [Dadras' Attractor](#dadras-attractor)
 - [Conclusions](#conclusions)
 - [References](#references)
+- [Download Paper](#download-paper)
 
 ## Introduction
 Chaos theory is a mathematical field that studies the behavior of dynamical systems that are highly sensitive to initial conditions. The focus of this project is to model different chaotic attractors using Mathematica, including the Lorenz attractor, which was discovered by meteorologist Edward Lorenz.
@@ -36,9 +37,6 @@ The models in this project are constructed using the Mathematica software. Key b
 ### Attractors
 - **Non-Chaotic Attractors**: Dynamical systems whose future state can be predicted.
 - **Chaotic/Strange Attractors**: Systems whose behavior is sensitive to initial conditions, and thus unpredictable.
-
-## Results
-
 ### Lorenz Attractor
 The Lorenz system models a simplified atmospheric convection and is represented by three non-linear differential equations:
 ```mathematica
