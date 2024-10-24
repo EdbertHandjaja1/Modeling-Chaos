@@ -6,19 +6,6 @@
 ## Abstract
 This project investigates chaos theory, focusing on the sensitivity of non-linear dynamical systems to initial conditions, often referred to as the **Butterfly Effect**. Inspired by Edward Lorenz's pioneering work in 1961, this project provides an introduction to chaos theory and explores the modeling of chaotic systems using Mathematica. We dive into different strange attractors, such as Lorenz, Chen, and Dadras, through the lens of Ordinary Differential Equations (ODEs), providing insights into their unpredictable nature.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Methodology](#methodology)
-  - [Mathematica Functions Used](#mathematica-functions-used)
-  - [Attractors](#attractors)
-- [Results](#results)
-  - [Lorenz Attractor](#lorenz-attractor)
-  - [Chen's Attractor](#chens-attractor)
-  - [Dadras' Attractor](#dadras-attractor)
-- [Conclusions](#conclusions)
-- [References](#references)
-- [Download Paper](#download-paper)
-
 ## Introduction
 Chaos theory is a mathematical field that studies the behavior of dynamical systems that are highly sensitive to initial conditions. The focus of this project is to model different chaotic attractors using Mathematica, including the Lorenz attractor, which was discovered by meteorologist Edward Lorenz.
 
